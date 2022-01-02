@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:rgb(137, 137, 196);
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    height: 20px;
+    background-color: black;
+}
+.row{
+    padding-top: 100px;
+    padding-left: 5%;
+}
+.result{
+    color: rgb(248, 66, 0);
+}
+.result:hover{
+    font-size: 40px;
+}
+.button{
+    background: #202020;
+    color: white;
+    border: 3px soldi white;
+    border-radius: 50px;
+    margin: 50px 0 0 15%;
+}
